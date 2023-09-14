@@ -1,1 +1,1 @@
-# home.furnitore
+# home.furniture
