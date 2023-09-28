@@ -51,6 +51,10 @@ h2 {
   margin: 0 auto;
 }
 
+.feature-smiyapp {
+  padding-top: 65px;
+  background-image: url("img/star.svg");
+}
 .features {
   width: 510px;
   margin: 0 auto 30px;
